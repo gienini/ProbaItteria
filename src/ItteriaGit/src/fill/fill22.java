@@ -1,6 +1,6 @@
-package fill;
+package ItteriaGit.src.fill;
 
-import pare.pare;
+import ItteriaGit.src.pare.pare;
 
 public class fill22 extends pare {
 

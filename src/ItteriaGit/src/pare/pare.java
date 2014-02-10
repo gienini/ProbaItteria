@@ -1,4 +1,4 @@
-package pare;
+package ItteriaGit.src.pare;
 
 public class pare {
 	
