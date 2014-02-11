@@ -1,7 +1,7 @@
 package principal;
 
 
-import ItteriaGit.src.fill.fill22;
+import ItteriaGit.src.fill.*;
 
 public class Principal {
 
@@ -10,6 +10,8 @@ public class Principal {
 		fill22 f22 = new fill22("Francisco Gienini");
 		
 		fill9 f9 = new fill9("Nuria Hernandez");
+		
+		fill12 f12 = new fill12("ELoi Berenguer");
 	}
 
 }
