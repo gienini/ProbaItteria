@@ -21,6 +21,8 @@ public class Principal {
 		fill8 f8=new fill8("Juan Heredia");
 		
 		fill10 f10=new fill10("Adria Foncillas");
+		
+		fill7 f7 = new fill7("Chema Pamundi");
 
 
 	}
