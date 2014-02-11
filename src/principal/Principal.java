@@ -17,6 +17,11 @@ public class Principal {
 		fill9 f9 = new fill9("Nuria Hernandez");
 		
 		fill11 f11=new fill11("Eric Careta");
+		
+		fill8 f8=new fill8("Juan Heredia");
+		
+		fill10 f10=new fill10("Adria Foncillas");
+
 
 	}
 
