@@ -1,8 +1,10 @@
 package fill;
 
-public class fill14 extends pare{
+import ItteriaGit.src.pare.pare;
 
-	public fill14(String nom) {
+public class fill18 extends pare{
+
+	public fill18(String nom) {
 		super(nom);
 	}
 }
